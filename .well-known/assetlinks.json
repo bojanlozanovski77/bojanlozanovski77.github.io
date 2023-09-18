@@ -1,1 +1,10 @@
-"[]" 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.applinksmediumpostm",
+    "sha256_cert_fingerprints": [
+      "BE:A7:C8:D1:42:36:74:61:3E:19:2A:1E:43:12:70:25:5D:2A:A6:72:14:84:38:04:15:BA:6E:C7:A9:15:46:98",
+    ]
+  }
+}]
